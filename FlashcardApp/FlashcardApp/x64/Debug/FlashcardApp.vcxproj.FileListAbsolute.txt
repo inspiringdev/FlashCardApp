@@ -1,0 +1,4 @@
+C:\Users\haier\source\repos\FlashcardApp\FlashcardApp\x64\Debug\FlashcardApp.vcxproj.AssemblyReference.cache
+C:\Users\haier\source\repos\FlashcardApp\FlashcardApp\x64\Debug\FlashcardApp.MyForm2.resources
+C:\Users\haier\source\repos\FlashcardApp\FlashcardApp\x64\Debug\FlashcardApp.vcxproj.GenerateResource.cache
+C:\Users\haier\source\repos\FlashcardApp\FlashcardApp\x64\Debug\FlashcardApp.MyForm.resources
